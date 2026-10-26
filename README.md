@@ -42,14 +42,7 @@ O programa apresenta:
 
 O ranking considera inserções com pelo menos uma colisão. Em empates, as comparações estritas preservam os candidatos anteriores nas posições de mesma contagem; o novo candidato pode ocupar uma posição inferior. O total de colisões acumula os encontros com posições ocupadas por outras chaves.
 
-## Execução
 
-1. Baixe ou clone o repositório.
-2. Abra a pasta da atividade desejada como projeto ou módulo Java na IDE.
-3. Configure o JDK compatível com o projeto e marque `src` como pasta de código-fonte, se necessário.
-4. Execute a classe `Main` da atividade escolhida.
-
-Como a seed é fixa, a sequência gerada e os resultados se repetem quando o programa é executado com as mesmas condições. Essa repetição permite comparar os testes.
 
 ## Desenvolvimento e transparência
 
